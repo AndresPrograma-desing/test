@@ -1,0 +1,25 @@
+{
+  "app": {
+    "title": "Plantilla React + Vite",
+    "subtitle": "React Starter Template",
+    "description": "Base de desarrollo lista para producción con arquitectura modular, gestión de estado y cliente HTTP preconfigurados.",
+    "pathLabel": "src/app/screens/modules/home/index.jsx"
+  },
+  "callout": {
+    "title": "AnteriorityUI Integrado",
+    "message": "Librería de componentes UI interna lista para acelerar el desarrollo del frontend."
+  },
+  "stack": {
+    "react": "React 19",
+    "vite": "Vite",
+    "redux": "Redux Toolkit",
+    "scss": "SCSS Modules",
+    "axios": "Axios",
+    "prettier": "Prettier",
+    "ui": "AnteriorityUI"
+  },
+  "buttons": {
+    "primary": "Iniciar Proyecto",
+    "secondary": "Documentación"
+  }
+}
